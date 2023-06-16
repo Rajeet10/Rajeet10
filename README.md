@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajeet Chaudhary</h1>
 <h3 align="center">Exploring Tech Stuffs</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **rajeetchaudhary10@gmail.com**
 
