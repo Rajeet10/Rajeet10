@@ -404,8 +404,13 @@ Whether you want to discuss cloud architecture, microservices, or the latest in 
 ---
 
 <div align="center">
+
   <p>Made with ❤️ by Rajeet Chaudhary</p>
+
   <p>⭐ Star my repositories if you find them useful!</p>
-</div>
-  <p>⭐ Star my repositories if you find them useful!</p>
+
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"/>
+  </a>
+
 </div>
